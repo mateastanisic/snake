@@ -1,0 +1,1 @@
+/usr/bin/g++    -rdynamic CMakeFiles/snake.dir/main.cpp.o CMakeFiles/snake.dir/game.cpp.o CMakeFiles/snake.dir/world.cpp.o CMakeFiles/snake.dir/snake.cpp.o  -o snake -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio 

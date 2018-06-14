@@ -1,0 +1,7 @@
+/home/stanisic/Documents/aaaa/snake-mateastanisic/build/CMakeFiles/rebuild_cache.dir
+/home/stanisic/Documents/aaaa/snake-mateastanisic/build/CMakeFiles/test.dir
+/home/stanisic/Documents/aaaa/snake-mateastanisic/build/CMakeFiles/edit_cache.dir
+/home/stanisic/Documents/aaaa/snake-mateastanisic/build/src/CMakeFiles/rebuild_cache.dir
+/home/stanisic/Documents/aaaa/snake-mateastanisic/build/src/CMakeFiles/edit_cache.dir
+/home/stanisic/Documents/aaaa/snake-mateastanisic/build/src/CMakeFiles/snake.dir
+/home/stanisic/Documents/aaaa/snake-mateastanisic/build/src/CMakeFiles/test.dir
